@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jag3dagster)](https://github.com/jag3dagster)
 
 <!--
 **jag3dagster/jag3dagster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
